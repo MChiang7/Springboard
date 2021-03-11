@@ -4,3 +4,6 @@ Analyzed London Borough data to determine the greatest average increase in housi
 
 ### Unit 6 - Capstone One
 Compared data from various ski resorts to create pricing models for target resort in order to offset a recent increase in operational cost.
+
+### Unit 7 - API Data Wrangling
+Retrieved data using Quandl API to analyze performance of certain stocks.
