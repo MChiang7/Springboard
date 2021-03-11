@@ -10,3 +10,6 @@ Retrieved data using Quandl API to analyze performance of certain stocks.
 
 #### Unit 8 - Country Club Case Study
 Connected to a SQLite database to gather various member information and activity availabilities at a country club.
+
+#### Unit 14 - Logistic Regression
+Created a logistic regression model to determine sex based upon height and weight data.
