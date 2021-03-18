@@ -11,5 +11,9 @@ Retrieved data using Quandl API to analyze performance of certain stocks.
 #### Unit 8 - Country Club Case Study
 Connected to a SQLite database to gather various member information and activity availabilities at a country club.
 
+#### Unit 11 - Statistics in Exploratory Data Analysis
+##### Frequentist Inference Case Study
+Used the central limit theorem to help apply frequentist techniques to answer questions that pertain to very non-normally distributed data from the real world. Also formed null and alternate hypotheses that were t-tested.
+
 #### Unit 14 - Logistic Regression
 Created a logistic regression model to determine sex based upon height and weight data.
