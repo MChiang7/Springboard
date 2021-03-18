@@ -15,5 +15,6 @@ Connected to a SQLite database to gather various member information and activity
 ##### Frequentist Inference Case Study
 Used the central limit theorem to help apply frequentist techniques to answer questions that pertain to very non-normally distributed data from the real world. Also formed null and alternate hypotheses that were t-tested.
 
-#### Unit 14 - Logistic Regression
+#### Unit 14 - Supervised Learning
+##### Logistic Regression Case Study
 Created a logistic regression model to determine sex based upon height and weight data.
