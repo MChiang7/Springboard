@@ -14,6 +14,8 @@ Connected to a SQLite database to gather various member information and activity
 #### Unit 11 - Statistics in Exploratory Data Analysis
 ##### Frequentist Inference Case Study
 Used the central limit theorem to help apply frequentist techniques to answer questions that pertain to very non-normally distributed data from the real world. Also formed null and alternate hypotheses that were t-tested.
+##### Integrating Apps Case Study
+Used hypothesis testing to determine if there was a significant difference between Apple Store and Google Play when deciding between integrating either or into a custom operating system.
 
 #### Unit 14 - Supervised Learning
 ##### Logistic Regression Case Study
