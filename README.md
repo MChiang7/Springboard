@@ -16,6 +16,8 @@ Connected to a SQLite database to gather various member information and activity
 Used the central limit theorem to help apply frequentist techniques to answer questions that pertain to very non-normally distributed data from the real world. Also formed null and alternate hypotheses that were t-tested.
 ##### Integrating Apps Case Study
 Used hypothesis testing to determine if there was a significant difference between Apple Store and Google Play when deciding between integrating either or into a custom operating system.
+##### Red Wine Case Study
+Implemented a linear regression model to determine which red wines had properties that make them more alcoholic
 
 #### Unit 14 - Supervised Learning
 ##### Logistic Regression Case Study
