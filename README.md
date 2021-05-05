@@ -22,3 +22,5 @@ Implemented a linear regression model to determine which red wines had propertie
 #### Unit 14 - Supervised Learning
 ##### Logistic Regression Case Study
 Created a logistic regression model to determine sex based upon height and weight data.
+##### Decision Tree Coffee Case Study
+Utilize Gini impurity and entropy measures to optimize a random forest model to determine if a diner should strike a deal with a new vendor.
