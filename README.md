@@ -24,3 +24,5 @@ Implemented a linear regression model to determine which red wines had propertie
 Created a logistic regression model to determine sex based upon height and weight data.
 ##### Decision Tree Coffee Case Study
 Utilize Gini impurity and entropy measures to optimize a random forest model to determine if a coffee diner should strike a deal with a new vendor.
+##### Random Forest COVID 19 Case Study
+Implement a random forest model to determine the state of a patient (isolated, released, missing, deceased) in the COVID 19 pandemic based upon South Korea cases from December and January of 2020.
