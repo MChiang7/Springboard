@@ -34,3 +34,5 @@ Implement a gradient boosted regression tree to predict the survival of passenge
 Examine and visualize differences between Euclidean and Manhanttan distance.
 ##### Cosine Similarity Case Study
 Utilize cosine similarity to compare different text values in documents.
+##### Clustering Case Study
+Implement a K-Means clustering algorithm to analyze information on marketing newsletters/e-mail campaigns and transaction level data from customers and determine which offers customers responded to, and what the customer ended up buying. Utilize methods such as elbow, silhouette, and gap statistic to choose the k clusters. Visualize final clustering with PCA.
