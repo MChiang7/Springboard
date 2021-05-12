@@ -30,5 +30,7 @@ Implement a random forest model to determine the state of a patient (isolated, r
 Implement a gradient boosted regression tree to predict the survival of passengers on the Titanic.
 
 #### Unit 15 - Unsupervised Learning
-##### Euclidean and Manhattan Distance
+##### Euclidean and Manhattan Distance Case Study
 Examine and visualize differences between Euclidean and Manhanttan distance.
+##### Cosine Similarity Case Study
+Utilize cosine similarity to compare different text values in documents.
