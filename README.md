@@ -28,3 +28,7 @@ Utilize Gini impurity and entropy measures to optimize a random forest model to 
 Implement a random forest model to determine the state of a patient (isolated, released, missing, deceased) in the COVID 19 pandemic based upon South Korea cases from December and January of 2020.
 ##### Gradient Boosted Titanic Case Study
 Implement a gradient boosted regression tree to predict the survival of passengers on the Titanic.
+
+#### Unit 15 - Unsupervised Learning
+##### Euclidean and Manhattan Distance
+Examine and visualize differences between Euclidean and Manhanttan distance.
