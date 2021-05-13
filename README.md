@@ -23,16 +23,16 @@ Implemented a linear regression model to determine which red wines had propertie
 ##### Logistic Regression Case Study
 Created a logistic regression model to determine sex based upon height and weight data.
 ##### Decision Tree Coffee Case Study
-Utilize Gini impurity and entropy measures to optimize a random forest model to determine if a coffee diner should strike a deal with a new vendor.
+Utilized Gini impurity and entropy measures to optimize a random forest model to determine if a coffee diner should strike a deal with a new vendor.
 ##### Random Forest COVID 19 Case Study
-Implement a random forest model to determine the state of a patient (isolated, released, missing, deceased) in the COVID 19 pandemic based upon South Korea cases from December and January of 2020.
+Implemented a random forest model to determine the state of a patient (isolated, released, missing, deceased) in the COVID 19 pandemic based upon South Korea cases from December and January of 2020.
 ##### Gradient Boosted Titanic Case Study
-Implement a gradient boosted regression tree to predict the survival of passengers on the Titanic.
+Implemented a gradient boosted regression tree to predict the survival of passengers on the Titanic.
 
 #### Unit 15 - Unsupervised Learning
 ##### Euclidean and Manhattan Distance Case Study
-Examine and visualize differences between Euclidean and Manhanttan distance.
+Examined and visualizde differences between Euclidean and Manhanttan distance.
 ##### Cosine Similarity Case Study
-Utilize cosine similarity to compare different text values in documents.
+Utilized cosine similarity to compare different text values in documents.
 ##### Email Campaign Clustering Case Study
-Implement a K-Means clustering algorithm to analyze information on marketing newsletters/e-mail campaigns and transaction level data from customers and determine which offers customers responded to, and what the customer ended up buying. Utilize methods such as elbow, silhouette, and gap statistic to choose the k clusters. Visualize final clustering with PCA.
+Implemented a K-Means clustering algorithm to analyze information on marketing newsletters/e-mail campaigns and transaction level data from customers and determined which offers customers responded to, and what the customer ended up buying. Utilized methods such as elbow, silhouette, and gap statistic to choose the k clusters. Visualized final clustering with PCA.
